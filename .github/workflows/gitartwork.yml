@@ -1,4 +1,4 @@
- name: gitartwork from a contribution graph
+ name: gledson
  on: 
    push:
    schedule:
