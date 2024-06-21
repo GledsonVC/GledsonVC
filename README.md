@@ -2,7 +2,7 @@
 ![snake gif](https://github.com/GledsonVC/GledsonVC/blob/output/github-contribution-grid-snake.svg)
 
 <div style="display: inline_block">
-  <h2>Linguagens, Frameworks e Ferramentas de trabalho utilizadas.</h2>
+  <h2>Linguagens, frameworks e ferramentas de trabalho utilizadas.</h2>
   <p align="left">
     <a href="https://github.com/GledsonVC">
       <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,py,git,github,vscode,mysql,linux,raspberrypi,ubuntu,windows" />
