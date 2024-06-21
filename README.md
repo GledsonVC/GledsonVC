@@ -3,6 +3,8 @@
 ## e sou um amante da area de programação e tecnologia!
 ![snake gif](https://github.com/GledsonVC/GledsonVC/blob/output/github-contribution-grid-snake.svg)
 
+![gitartwork](nomeGledson.svg)
+
 
 
 <div style="display: inline_block">
