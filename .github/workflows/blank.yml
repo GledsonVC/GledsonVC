@@ -45,8 +45,8 @@ jobs:
         run: git status
 
       - name: Push new files to the output branch
-        uses: Platane/snk/svg-only@v3
-        #uses: crazy-max/ghaction-github-pages@v3.1.0
+        #uses: Platane/snk/svg-only@v3
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
