@@ -3,7 +3,7 @@
 
 <br>
 
-![snake gif](https://github.com/GledsonVC/GledsonVC/blob/main/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/GledsonVC/GledsonVC/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 
