@@ -1,10 +1,6 @@
 ## Ola eu sou a GledsonVC e sou um amante da area de programação e tecnologia!
 ![snake gif](https://github.com/GledsonVC/GledsonVC/blob/output/github-contribution-grid-snake.svg)
 
-<br>
-
-![snake gif](https://github.com/GledsonVC/GledsonVC/blob/output/github-contribution-grid-snake-dark.svg)
-
 
 
 <div style="display: inline_block">
