@@ -1,0 +1,14 @@
+name: nomeGledson
+on:
+  push:
+    schedule:
+      - cron: '* */24 * * *'
+jobs:
+  build:
+    name: nomeGledson SGV
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      with:
+        user_name: gledsonvc
+        text: Gledson
