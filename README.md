@@ -1,4 +1,6 @@
-## Ola eu sou a GledsonVC e sou um amante da area de programação e tecnologia!
+## Ola eu sou 
+![gitartwork](gitartwork.svg)
+## e sou um amante da area de programação e tecnologia!
 ![snake gif](https://github.com/GledsonVC/GledsonVC/blob/output/github-contribution-grid-snake.svg)
 
 
