@@ -1,6 +1,12 @@
 ## Ola eu sou a GledsonVC e sou um amante da area de programação e tecnologia!
 ![snake gif](https://github.com/GledsonVC/GledsonVC/blob/output/github-contribution-grid-snake.svg)
 
+<br>
+
+![snake gif](https://github.com/GledsonVC/GledsonVC/blob/main/github-contribution-grid-snake-dark.svg)
+
+
+
 <div style="display: inline_block">
   <h2>Linguagens, frameworks e ferramentas de trabalho utilizadas.</h2>
   <p align="left">
@@ -9,7 +15,7 @@
     </a>
   </p>
 </div>
- 
+
 <div> 
   <h2>Contato e redes sociais.</h2>
   <a href="mailto:gledsonvc@gmail.com"><img src="https://img.shields.io/badge/-gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
