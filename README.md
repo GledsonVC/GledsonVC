@@ -1,6 +1,6 @@
 ## Bem-vindo(a), eu me chamo 
 ![gitartwork](nomeGledson.svg)
-# e sou um amante da área de programação e tecnologia!
+# Gosto muito da área de programação e tecnologia!
 ![snake gif](https://github.com/GledsonVC/GledsonVC/blob/output/github-contribution-grid-snake.svg)
 ## Linguagens, frameworks e ferramentas de trabalho utilizadas.
 [![Markdown](https://skillicons.dev/icons?i=md)](https://skillicons.dev)
