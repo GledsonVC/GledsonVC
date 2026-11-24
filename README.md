@@ -18,7 +18,7 @@
 [![Raspbian](https://skillicons.dev/icons?i=raspberrypi)](https://skillicons.dev)
 [![Ubuntu](https://skillicons.dev/icons?i=ubuntu)](https://skillicons.dev)
 [![Windows](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
-
+<details>
   <summary>
     CLIQUE AQUI para saber mais sobre (descritivo das linguagens frameworks e ferramentas).
   </summary>
@@ -41,7 +41,7 @@
   Raspbian | Sistema operacional | Raspbian é uma variante do Debian baseada no ARM hard-float, sendo um porte da arquitetura Wheezy, otimizada para o conjunto de instruções ARMv6 do hardware do Raspberry Pi. Raspbian é uma palavra-valise ou siglonimização, composição de Raspberry Pi e Debian.
   Ubuntu | Sistema operacional | Ubuntu é um sistema operacional ou sistema operativo de código aberto, construído a partir do núcleo Linux, baseado no Debian e utiliza GNOME como ambiente de desktop de sua mais recente versão com suporte de longo prazo. Esta distribuição Linux é desenvolvida pela Canonical Ltd.
   Windows | Sistema operacional | Microsoft Windows é uma família de sistemas operacionais desenvolvidos, comercializados e vendidos pela Microsoft.
-
+</details>
 
   
 
