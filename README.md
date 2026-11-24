@@ -18,7 +18,7 @@
 [![Raspbian](https://skillicons.dev/icons?i=raspberrypi)](https://skillicons.dev)
 [![Ubuntu](https://skillicons.dev/icons?i=ubuntu)](https://skillicons.dev)
 [![Windows](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
-<details>
+
   <summary>
     CLIQUE AQUI para saber mais sobre (descritivo das linguagens frameworks e ferramentas).
   </summary>
@@ -43,7 +43,7 @@
   Windows | Sistema operacional | Microsoft Windows é uma família de sistemas operacionais desenvolvidos, comercializados e vendidos pela Microsoft.
 
 
-  </details>
+  
 
 
 ## Contato e redes sociais.
