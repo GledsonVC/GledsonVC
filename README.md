@@ -6,6 +6,10 @@
 
 ![snake gif](https://github.com/GledsonVC/GledsonVC/blob/output/github-contribution-grid-snake.svg)
 
+## Contato e redes sociais.
+
+[![](https://img.shields.io/badge/-gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gledsonvc@gmail.com) [![](https://img.shields.io/badge/-whatsapp-%23128C7E?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511963400096) [![](https://img.shields.io/badge/-Facebook-%230866ff?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gledsonvc) [![](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gledsonvc/) [![](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gledsonvasconcelloscavalheiro) [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@gle613) [![](https://img.shields.io/badge/-github-%23333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GledsonVC)
+
 ## Linguagens, frameworks e ferramentas de trabalho utilizadas.
 
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
@@ -50,7 +54,3 @@
   Ubuntu | Sistema operacional | Ubuntu é um sistema operacional ou sistema operativo de código aberto, construído a partir do núcleo Linux, baseado no Debian e utiliza GNOME como ambiente de desktop de sua mais recente versão com suporte de longo prazo. Esta distribuição Linux é desenvolvida pela Canonical Ltd.
   Windows | Sistema operacional | Microsoft Windows é uma família de sistemas operacionais desenvolvidos, comercializados e vendidos pela Microsoft.
 </details>
-
-## Contato e redes sociais.
-
-[![](https://img.shields.io/badge/-gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gledsonvc@gmail.com) [![](https://img.shields.io/badge/-whatsapp-%23128C7E?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511963400096) [![](https://img.shields.io/badge/-Facebook-%230866ff?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gledsonvc) [![](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gledsonvc/) [![](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gledsonvasconcelloscavalheiro) [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCY0OOTp8xzSMowgt8NnHRLQ)
